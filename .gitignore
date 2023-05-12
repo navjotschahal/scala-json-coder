@@ -8,3 +8,6 @@ hs_err_pid*
 
 .DS_Store
 .vscode
+
+codecs/project
+codecs/.bsp
